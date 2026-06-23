@@ -35,3 +35,11 @@ This project performs Exploratory Data Analysis (EDA) on a retail sales dataset 
 
 ## Conclusion
 Exploratory data analysis helps uncover patterns in customer behavior and sales performance, enabling better business decisions.
+## Screenshots
+
+### Graph 1
+![Graph 1](screenshots/graph1.png)
+
+### Graph 2
+![Graph 2](screenshots/graph2.png)
+
